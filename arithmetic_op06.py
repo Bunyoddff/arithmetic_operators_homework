@@ -5,6 +5,6 @@ number=number/2
 #Find the fraction of the number and assign to a variable called 'answer'.
 answer=(number*10)%10
 #Print the answer.
-print(number)
-#Print the number.
 print(answer)
+#Print the number.
+print(number)
